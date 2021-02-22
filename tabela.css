@@ -1,0 +1,133 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*
+header .menu{
+    width: 100%;
+    height: 50px;
+    background-color: brown; Cor do menu
+}
+
+.menu ul{
+    list-style: none;
+    position: relative;
+}
+
+.menu ul li{
+    width: 100px;
+    float: right;
+}
+
+.menu a{
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: brown;
+}*/
+
+h1{
+    text-align: center;
+    background-color: rgb(163, 16, 16);
+    color: #fff;
+}
+
+ h3{
+    text-align: center;
+    padding: 10px;
+}
+
+p{
+	padding: 0 45px;
+	text-indent: 15px;
+	text-align: justify;
+	
+}
+
+a h4{
+    text-decoration: none;
+}
+
+.logo{
+    width: 250px;
+    height: 100px;
+    padding: 15px;
+    margin: auto 0px;
+}
+
+.container{
+    background-color: #ffffff;
+    max-width: 1024px;
+}
+
+.menu{
+    background-color: #fff;
+
+}
+
+
+
+
+.dropdown-submenu {
+    position: relative;
+  }
+  
+  .dropdown-submenu a::after {
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 6px;
+    top: .8em;
+  }
+  
+  .dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-left: .1rem;
+    margin-right: .1rem;
+  }
+
+  .intro{
+      text-align: justify;
+  }
+  .rodape{
+      text-align: center;
+      color: #fff;
+      font-weight: 700;
+      font-size: 14px;
+      
+  }
+
+  .botao{
+      width: 180px;
+  }
+
+  .buton{
+      padding: 30px;
+     text-align: center;
+  }
+
+
+
+  .tables{
+      text-align: center;
+  }
+
+  .icon-2{
+      background-color: #ffffff;
+  }
+
+  .icon-2:hover{
+      background-color: #d3d3d3;
+  }
+
+  footer{
+      background-color: rgb(163, 16, 16);
+      height: 40px;
+   
+  }
+
+ 

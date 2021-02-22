@@ -1,0 +1,103 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(163, 16, 16);
+    color: #fff;
+}
+
+p{
+	padding: 0 45px;
+	text-indent: 15px;
+	text-align: justify;
+	
+}
+
+.logo{
+    width: 250px;
+    height: 100px;
+    padding: 15px;
+    margin: auto 0px;
+}
+
+.container{
+    background-color: #ffffff;
+    max-width: 1024px;
+}
+
+.menu{
+    background-color: #fff;
+
+}
+
+
+figcaption{
+	font-style: italic;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#centro-distribuicao{
+	margin-left: auto;
+	margin-right: auto;
+    width: 960px;
+  
+}
+
+#lojas_frentes{
+    width: 900px;
+    height: 350px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+#historia{
+    background-color: rgb(163, 16, 16);
+    color: #fff;
+}
+
+#diferencia{
+    background-color: rgb(163, 16, 16);
+    color: #fff;
+}
+
+.familia{
+
+	margin: 0 0 10px 10px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+
+}
+/*
+.direita{
+    margin: 0;
+   
+}*/
+
+ul li.referencia{
+    margin: 15px;
+    list-style: none;
+	padding: 0 45px;
+	text-align: justify;
+
+	line-height: 1;
+}
+
+.rodape{
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+
+footer{
+    background-color: rgb(163, 16, 16);
+    height: 40px;
+ 
+}

@@ -1,0 +1,45 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(163, 16, 16);
+    color: #fff;
+}
+ 
+.icon-2{
+    background-color: #ffffff;
+}
+
+.icon-2:hover{
+    background-color: #d3d3d3;
+}
+
+
+.buton{
+      padding: 30px;
+     text-align: auto;
+  }
+
+  .rodape{
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    
+}
+
+  footer{
+      background-color: rgb(163, 16, 16);
+      height: 40px;
+   
+  }
+
+ 
